@@ -1,0 +1,2 @@
+scp -i path_to_SSH/SSH_name docker-compose.production.yml \
+    yc-user@84.201.153.109:/home/username/taski/docker-compose.production.yml
